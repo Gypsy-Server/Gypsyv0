@@ -1,4 +1,7 @@
 **Gypsy USB stick basic version**
+
+
+
 before using the Sd Card
 Quick formatting steps
 On Windows:

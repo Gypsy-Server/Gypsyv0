@@ -1,5 +1,20 @@
 **Gypsy USB stick basic version**
+before using the Sd Card
+Quick formatting steps
+On Windows:
 
+Insert SD card
+
+Open Disk Management → delete all partitions
+
+Create a new simple volume → choose FAT32 → “Quick Format”
+
+
+On Linux/macOS (terminal):
+#
+sudo fdisk /dev/sdX
+#
+sudo mkfs.vfat -F32 /dev/sdX1
 
 <img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/773be3c4-cbc5-4702-8716-2903dffae82e" />
 Hardware

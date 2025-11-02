@@ -9,6 +9,8 @@
 
 
 
+<img width="1920" height="1080" alt="Screenshot_2025-11-02_23_55_23" src="https://github.com/user-attachments/assets/aeb75962-c8aa-440c-9438-8eee91463206" />
+
 
 
 A simple Network Attached Storage using esp8266 and Sd card

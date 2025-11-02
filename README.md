@@ -3,5 +3,12 @@
 
 <img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/773be3c4-cbc5-4702-8716-2903dffae82e" />
 
+<img width="1919" height="1079" alt="gyp_red" src="https://github.com/user-attachments/assets/94e9d78b-d2f0-42ac-bf7c-a92ac9dd0350" />
+<img width="1920" height="1080" alt="Screenshot_2025-11-02_23_48_45" src="https://github.com/user-attachments/assets/11ea5133-e7dc-4627-8ea0-b31eff418e54" />
+<img width="1920" height="1080" alt="Screenshot_2025-11-02_23_49_20" src="https://github.com/user-attachments/assets/d0c3d10a-e000-4ef6-84f6-d2f75d352b80" />
+
+
+
+
 
 A simple Network Attached Storage using esp8266 and Sd card

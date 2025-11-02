@@ -6,6 +6,7 @@
 	(paper "User" 292.1 205.105)
 	(title_block
 		(title "USB STICK SERVER")
+		(date "1/10/2025")
 	)
 	(lib_symbols
 		(symbol "0603 ±5% 10K"

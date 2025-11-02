@@ -3,4 +3,4 @@
 
 
 
-A simple Network Attached Nas using esp8266 and Sd card
+A simple Network Attached Storage using esp8266 and Sd card

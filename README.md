@@ -43,7 +43,7 @@ Home Page
 File viewing 
 ![File Handling](images/category_view.png)
  
- Conetents
+ Contents
 ![Anime girl](images/anime_girl.png)
  
  Mp4 full screen view

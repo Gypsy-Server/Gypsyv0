@@ -1,4 +1,4 @@
-**Gypsy USB stick basic version**
+**Gypsy USB stick basic local fileview**
 
 
 

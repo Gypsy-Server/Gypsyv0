@@ -1,11 +1,8 @@
-<<<<<<< HEAD
-**Gypsy USB stick basic local fileview**
-=======
-# Gypsyv0   
+  
 *A local file viewer built on the ESP8266*
 
 ![Board Preview](images/usb-stick.png)
->>>>>>> 0007602 (removed old files)
+
 
 
 
@@ -56,7 +53,7 @@ You can view the full schematic and PCB in the `usb_stick_kicadfiles/` folder (K
 ![Anime girl](images/anime_girl.png)
  
  
-![Full screnn Mp3](fullscreen.png)
+![Full screen Mp3](fullscreen.png)
 
 
 
@@ -81,5 +78,3 @@ If you’ve built anything similar — or see a way to make this smarter, faster
 
 ---
 
-
-![Prototype](images/prototype.jpg)

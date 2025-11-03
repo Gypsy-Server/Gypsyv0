@@ -69,7 +69,10 @@ File viewing
 - but Good in MP3 handling , doesn't stuck (80KB of RAM is sufficient in ths case)
 - Sometimes SD card initialization fails (random)
 
-
+## Some Fatal Issues 
+- **The original PCB has fatal a flaw, SD card Chip detect Pin as CS PIN , so don't use this project as it is , Also the Driver chip of sd card is 
+not necessary so for better design remove it esp8266 can drive sd card itself by 3.3v logic, for my case i have used and extra thin wire
+to cover up my mistake**
 
 
 

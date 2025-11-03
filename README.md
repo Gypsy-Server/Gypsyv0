@@ -45,7 +45,7 @@ You can view the full schematic and PCB in the `usb_stick_kicadfiles/` folder (K
 
 ---
 ## What you will see
-![Home Page](gyp_red.png)
+![Home Page](images/gyp_red.png)
  
 ![File Handling](images/category_view.png)
  
@@ -53,7 +53,7 @@ You can view the full schematic and PCB in the `usb_stick_kicadfiles/` folder (K
 ![Anime girl](images/anime_girl.png)
  
  
-![Full screen Mp3](fullscreen.png)
+![Full screen Mp3](images/fullscreen.png)
 
 
 

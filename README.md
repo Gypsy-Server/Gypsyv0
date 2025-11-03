@@ -75,7 +75,7 @@ for the Hardware Layout
 
 ##  What I’m Exploring Next
 
-- Network sharing (I have tested it Ngrok proxy tunneling to my friends , but ifmultiple people use at same time then it stops)  
+- Network sharing (I have tested it with Ngrok proxy tunneling to my friends , but if multiple people use at same time then it stops)  
 - ESP32 port for faster WIFI throughput  
 - Power optimization and case design( even smaller any small processor like Raspberry Pi Zero or ESP32 higher variant)
 - Larger Video playback(cinema of Some Sort)

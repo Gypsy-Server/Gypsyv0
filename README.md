@@ -3,14 +3,6 @@
 
 ![Board Preview](images/usb-stick.png)
 
-
-
-
-**Gypsyv0** is a compact experiment in turning the humble **ESP8266** into a lightweight **local NAS-style file viewer**.  
-It’s designed to serve files directly from an **SD card** or internal memory over Wi-Fi — no cloud, no dependencies, just you and your network.
-
-The goal is simplicity: a small, self-contained board that can browse, read, and manage files locally through a web interface.
-
 ---
 
 ## What is here
@@ -18,8 +10,6 @@ The goal is simplicity: a small, self-contained board that can browse, read, and
 - **Local file browsing** over Wi-Fi  
 - **SD card (FAT32/MBR)** storage support   
 - Runs standalone — powered via USB or external 5 V  or 3.3V
-  
-- Hardware layout inspired by the [WebStick project](https://github.com/tobychui/WebStick)
 
 ---
 
@@ -73,7 +63,8 @@ File viewing
 - **The original PCB has fatal a flaw, SD card Chip detect Pin as CS PIN , so don't use this project as it is , Also the Driver chip of sd card is 
 not necessary so for better design remove it esp8266 can drive sd card itself by 3.3v logic, for my case i have used and extra thin wire
 to cover up my mistake**
-
+so i would recommend to use this project [Hackstar-io](https://www.hackster.io/Neutrino-1/wireless-sd-card-reader-esp8266-de7f07)
+for the Hardware Layout
 
 
 ##  What I’m Exploring Next

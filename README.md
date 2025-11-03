@@ -67,6 +67,12 @@ so i would recommend to use this project [Hackstar-io](https://www.hackster.io/N
 for the Hardware Layout
 
 
+
+**Mistakes**
+![Wrong Schematic](images/corrected.jpeg)
+
+
+
 ##  What I’m Exploring Next
 
 - Network sharing (I have tested it Ngrok proxy tunneling to my friends , but ifmultiple people use at same time then it stops)  

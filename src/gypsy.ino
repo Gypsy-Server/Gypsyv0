@@ -12,7 +12,7 @@
 Router is necessary , If you don't have router then There will be a Access point mode version 
  * format sd card to FAT32 MBR before using it
 
-
+It was originally a Platformio project , converted in a single file for quick upload and test
  */
 
 
@@ -20,7 +20,7 @@ Router is necessary , If you don't have router then There will be a Access point
 #include <ESP8266WebServer.h>
 #include <SdFat.h>
 
-#define SD_CS_PIN 5 // use any other gpio if you have one
+#define SD_CS_PIN 5 //IF YOU HAVE ANY OTHER SPARE GPIO USE THAT 
 
 const char* ssid = "Enter your Network id here";
 const char* password = "your network password";

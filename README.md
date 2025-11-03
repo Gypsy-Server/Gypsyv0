@@ -45,24 +45,40 @@ You can view the full schematic and PCB in the `usb_stick_kicadfiles/` folder (K
 
 ---
 ## What you will see
+
+Home Page
 ![Home Page](images/gyp_red.png)
- 
+
+
+File viewing 
 ![File Handling](images/category_view.png)
  
- 
+ Conetents
 ![Anime girl](images/anime_girl.png)
  
- 
+ Mp4 full screen view
 ![Full screen Mp3](images/fullscreen.png)
+
+
+
+
+
+## What i have seen SO FAR
+- file uploading speed is Limited (average 150-250KB/s)
+- Slower playing Larger files (greater than 50MB)
+- but Good in MP3 handling , doesn't stuck (80KB of RAM is sufficient in ths case)
+
+
 
 
 
 
 ##  What I’m Exploring Next
 
-- Network share (maybe SMB or FTP?)  
+- Network sharing (I have tested it Ngrok proxy tunneling to my friends , but ifmultiple people use at same time then it stops)  
 - ESP32 port for faster WIFI throughput  
-- Power optimization and case design  
+- Power optimization and case design( even smaller any small processor like Raspberry Pi Zero or ESP32 higher variant)
+- Larger Video playback(cinema of Some Sort)
 
 ---
 

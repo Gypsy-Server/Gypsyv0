@@ -67,7 +67,7 @@ File viewing
 - file uploading speed is Limited (average 150-250KB/s)
 - Slower playing Larger files (greater than 50MB)
 - but Good in MP3 handling , doesn't stuck (80KB of RAM is sufficient in ths case)
-
+- Sometimes SD card initialization fails (random)
 
 
 
